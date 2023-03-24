@@ -1,0 +1,14 @@
+{
+  "name": "consultador",
+  "version": "1.0.0",
+  "description": "teste de smtp",
+  "main": "qrcode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gustavo pereira",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.9.1"
+  }
+}
